@@ -5,7 +5,7 @@ typedef struct node {
     char * id;
     char * value;
     struct node * next;
-} node_t;
+} node_t;,
 
 static int count = 0;
 
